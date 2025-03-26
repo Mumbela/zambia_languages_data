@@ -16,7 +16,7 @@ Copyright 2025 Mumbela Simonda
 ## Major Languages
 Zambia consists of 7 languages spoken by the majority of the people. These are:
 1. Bemba or Icibemba
-2. Chewa or Chichewa, a similar language to one otherwise known as Nyanja or Chinyanja
+2. Nyanja or Chinyanja
 3. Kaonde or Kikaonde
 4. Silozi, Lozi or Rozi
 5. Lunda or Chilunda
